@@ -6,4 +6,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Buccioz&repo=ARP-Poisoner&theme=dracula)](https://github.com/Buccioz/ARP-Poisoner)
 
 ## Latest Repository
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Buccioz&repo=AmongUsCheeto&theme=dracula)](https://github.com/Buccioz/AmongUsCheeto)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Buccioz&repo=AmongUso&theme=dracula)](https://github.com/Buccioz/AmongUsCheeto)
